@@ -1,7 +1,7 @@
 -- 1.
 -- Select the code which gives the name of countries beginning with U
 SELECT name
-  FROM world
+FROM world
  WHERE name LIKE 'U%';
 
 -- 2.
